@@ -1,4 +1,4 @@
 # myrepo
-testing
-A line I am adding now
-A new line added from RStudio
+testing \n
+A line I am adding now \n
+A new line added from RStudio \n
