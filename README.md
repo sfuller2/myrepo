@@ -1,5 +1,5 @@
 # myrepo
-testing \newline
-A line I am adding now \newline
-A new line added from RStudio \newline
+testing \\
+A line I am adding now \\
+A new line added from RStudio \\
 Edit this file
